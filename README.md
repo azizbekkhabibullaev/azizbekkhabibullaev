@@ -11,4 +11,4 @@ I work remotely and like to travel a lot.
 
 ### Languages and tools I work with:
 
-<code><img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px"></code>
+<code><img src="http://assets.stickpng.com/thumbs/5847f5bdcef1014c0b5e489c.png" width="30px"></code>
