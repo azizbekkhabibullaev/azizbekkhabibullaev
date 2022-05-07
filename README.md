@@ -18,7 +18,7 @@ I work remotely and like to travel a lot.
 <code><img src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/redux-logo-black-and-white.png" width="30px"></code>
-<code><img src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png" width="30px"></code>
+<code><img src="https://media.slid.es/uploads/715360/images/3820646/nextjs-logo-white.svg" width="30px"></code>
 <code><img src="https://cdn.iconscout.com/icon/free/png-256/graphql-3627039-3029432.png" width="30px"></code>
 
 <br />
