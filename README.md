@@ -14,7 +14,7 @@ I work remotely and like to travel a lot.
 <code><img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
-<code><img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="30px"></code>
+<code><img src="https://cdn.freebiesupply.com/logos/large/2x/bootstrap-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://miro.medium.com/max/512/1*YWazhGyGmNs6K3HZE7lS7Q.png" width="30px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-black-and-white.png" width="30px"></code>
 <code><img src="https://brandslogos.com/wp-content/uploads/thumbs/redux-logo-black-and-white.png" width="30px"></code>
