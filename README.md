@@ -3,12 +3,11 @@
 I make videos on YouTube about software development. <br />
 I work remotely and like to travel a lot.
 
-<div style="display:flex; justify-content: center; align-items: center">
-<a href="https://www.youtube.com/c/AzizbekKhabibullaev">
-  <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
-  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?label=Azizbek%20Khabibullaev&style=for-the-   badge">
+
+<a style="display:flex; justify-content: center; align-items: center" href="https://www.youtube.com/c/AzizbekKhabibullaev">
+    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?label=Azizbek%20Khabibullaev&style=for-the-   badge">
 </a>
-</div>
 
 
 <br />
