@@ -7,6 +7,8 @@ I work remotely and like to travel a lot.
   <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
 </a>
 
+<p align="left"> <a href="https://tg.me/akh_blog" target="blank"><img src="https://img.shields.io/telegram/follow/azizbekkhabibullaev?logo=telegram&style=for-the-badge" alt="azizbekkhabibullaev" /></a> </p>
+
 <br />
 
 ### Languages and tools I work with:
