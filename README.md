@@ -1,14 +1,13 @@
 ### Hi, I'm Azizbek Khabibullaev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
 
-I make videos on YouTube about software development. <br />
-I work remotely and like to travel a lot.
+🔥 I make videos on YouTube about software development. <br />
+❤️ I work remotely and like to travel a lot.
 
 
 <a href="https://www.youtube.com/c/AzizbekKhabibullaev">
-    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="25px">
+    <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="26px">
     <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?label=Azizbek%20Khabibullaev&style=for-the-   badge">
 </a>
-
 
 <br />
 
