@@ -7,7 +7,9 @@ I work remotely and like to travel a lot.
   <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/hd-youtube-logo-png-transparent-background-20.png" width="30px">
 </a>
 
-<img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?label=Azizbek%20Khabibullaev&style=for-the-badge">
+<a href="https://www.youtube.com/c/AzizbekKhabibullaev">
+  <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC1IjgI9If5ha3Ygs_1gSkvw?label=Azizbek%20Khabibullaev&style=for-the-   badge">
+</a>
 
 <br />
 
